@@ -25,7 +25,7 @@
 ### Установка
 
 1. Клонируйте репозиторий:
-```bash
+bash
 git clone https://github.com/yourusername/financial-telegram-bot.git
 cd financial-telegram-bot
 Установите зависимости:
